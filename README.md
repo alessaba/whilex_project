@@ -7,5 +7,6 @@ while($x) è una community italiana di developer totalmente opensource con la po
 
 ###Sviluppo
 Per lavorare in questo repository devi comunicare con il team. Per farlo esistono diversi modi:
+
 &bull; Usare il sito www.whilex.it e l'apposita sezione sondaggi (il sito non è il progetto ufficiale, è solo una piattaforma di comunicazione)
 &bull; Usare il canale IRC sul server freenode: #whilex
